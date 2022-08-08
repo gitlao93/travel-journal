@@ -6,7 +6,7 @@ additional --- #201d27 #604c5a */
 
 
 .card--container {
-    width: 1300px;
+    width: 80vw;
     margin: 30px auto;
     padding: 20px 30px;
     display: flex;
@@ -19,7 +19,7 @@ additional --- #201d27 #604c5a */
 }
 
 .card--imageContainer {
-    width: 40%;
+    width: 90%;
 }
 
 .card--imageContainer img {
